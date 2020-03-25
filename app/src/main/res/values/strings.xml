@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Info</string>
+    <string name="intern_registration">Intern Registration</string>
+    <string name="name">Full Name:</string>
+    <string name="slack"> Username:</string>
+    <string name="startng"> Email:</string>
+    <string name="Tracks">Tracks</string>
+</resources>
